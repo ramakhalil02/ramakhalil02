@@ -1,4 +1,4 @@
-# Rama Khalil
+# Hi, I'm Rama 👋
 
 MSc student in **Computational Physics** at Stockholm University and research student at **Nordita – Nordic Institute for Theoretical Physics**, working in the condensed matter physics group under **Dr. Alexander Balatsky**, in collaboration with **Rigetti Computing**.
 
