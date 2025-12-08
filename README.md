@@ -69,8 +69,8 @@ Simulated interacting particle dynamics, evaluating energy conservation, phase-s
 ## 🛠 Skills Snapshot
 
 - **Programming:** Python (NumPy, SciPy, Pandas, Matplotlib), C++, R  
-- **Computational Physics:** MC, MD, PDE solvers, variational methods  
-- **Machine Learning:** Scientific ML, PINNs, LLM   
+- **Computational Physics:** MC, MD, PDE solvers, Variational Methods  
+- **Machine Learning:** Scientific ML, PINNs, LLMs   
 - **Quantum Tools:** QuTiP, Qiskit  
 - **Data Science:** Statistical modelling, data analysis, pipelines  
 - **Software Tools:** Linux/Unix, Git, LaTeX  
