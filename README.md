@@ -1,6 +1,6 @@
 # Rama Khalil
 
-MSc student in **Computational Physics** at Stockholm University and research student at **Nordita – Nordic Institute for Theoretical Physics**, working in the Quantum Materials & Quantum Information group under **Dr. Alexander Balatsky**, in collaboration with **Rigetti Computing**.
+MSc student in **Computational Physics** at Stockholm University and research student at **Nordita – Nordic Institute for Theoretical Physics**, working in the condensed matter physics group under **Dr. Alexander Balatsky**, in collaboration with **Rigetti Computing**.
 
 My interests sit at the intersection of **quantum technologies, machine learning, computational modeling, and data-driven problem solving**. I enjoy building tools that turn complex physical systems into tractable computational problems, and extracting real insight from numerical experiments.
 
