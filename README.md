@@ -29,15 +29,19 @@ This work bridges machine-learning, quantum physics, modern numerical methods, a
 ### **Time-Dependent Schrödinger Equation Solver (BSc Thesis)**  
 
 🔗 [https://github.com/ramakhalil02/tdse-1d  ](https://github.com/ramakhalil02/tdse-1d)
+
 Developed a full TDSE solver from first principles using finite differences and repeated Hamiltonian diagonalization to model laser–atom interactions.  
 This was the project that sparked my passion for computational physics — showing how numerical methods transform analytically difficult quantum problems into efficient, extensible simulations.  
+
 *Skills: Linear algebra, eigenvalue problems, scientific computing, Python.*
 
 
 ### **Variational Monte Carlo — Quantum Harmonic Oscillator**  
 
 🔗 [https://github.com/ramakhalil02/variational-monte-carlo  ](https://github.com/ramakhalil02/VMC-QHO)
+
 Implemented a VMC solver to estimate ground-state energies and analyze convergence behaviour.  
+
 *Skills: Optimization, probabilistic modelling, computational quantum physics.*
 
 ---
@@ -45,7 +49,9 @@ Implemented a VMC solver to estimate ground-state energies and analyze convergen
 ### **Poisson Equation Solver using B-Spline Collocation**  
 
 🔗 [https://github.com/ramakhalil02/poisson_problem_splines-](https://github.com/ramakhalil02/PoissonEq-BSplines)  
+
 Built spline-based numerical solvers for the Poisson equation and compared convergence across grid resolutions and polynomial orders.  
+
 *Skills: Numerical PDEs, spline methods, SciPy, scientific computing.*
 
 ---
@@ -53,7 +59,9 @@ Built spline-based numerical solvers for the Poisson equation and compared conve
 ### **Molecular Dynamics Simulation — Verlet Integration**  
 
 🔗 [https://github.com/ramakhalil02/MD_assignment_workingVerlet](https://github.com/ramakhalil02/Molecular-Dynamics)  
+
 Simulated interacting particle dynamics, evaluating energy conservation, phase-space trajectories, and timestep stability.  
+
 *Skills: MD, numerical integration, Python.*
 
 ---
