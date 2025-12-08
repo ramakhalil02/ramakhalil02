@@ -35,6 +35,7 @@ This was the project that sparked my passion for computational physics — showi
 
 *Skills: Linear algebra, eigenvalue problems, scientific computing, Python.*
 
+---
 
 ### **Variational Monte Carlo — Quantum Harmonic Oscillator**  
 
