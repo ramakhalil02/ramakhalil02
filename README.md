@@ -1,6 +1,6 @@
 # Hi, I'm Rama 👋
 
-MSc student in **Computational Physics** at Stockholm University and research student at **Nordita – Nordic Institute for Theoretical Physics**, working in the condensed matter physics group under **Dr. Alexander Balatsky**, in collaboration with **Rigetti Computing**.
+MSc student in **Computational Physics** at Stockholm University and research student at **Nordita – Nordic Institute for Theoretical Physics**, working in the condensed matter physics group under **Prof. Alexander Balatsky**, in collaboration with **Rigetti Computing**.
 
 My interests sit at the intersection of **quantum technologies, machine learning, computational modeling, and data-driven problem solving**. I enjoy building tools that turn complex physical systems into tractable computational problems, and extracting real insight from numerical experiments.
 
@@ -15,9 +15,9 @@ I am also broadly interested in roles involving **data science, software enginee
 
 I am investigating **decoherence mechanisms in superconducting transmon qubits**, developing:
 
-- Synthetic noise models and dissipation profiles for quantum circuits  
+- Synthetic data and dissipation profiles for supercoducting qubits   
 - Numerical simulations of qubit–environment interactions  
-- Machine-learning methods for predicting coherence times and identifying decoherence signatures  
+- Machine-learning methods for predicting decoherence times and identifying decoherence signatures  
 
 This work bridges machine-learning, quantum physics, modern numerical methods, and data-driven modelling, and is part of Nordita’s ongoing collaboration with Rigetti on quantum device characterization.  
 (A public repository will be available once the code is finalized.)
